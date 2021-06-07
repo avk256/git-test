@@ -1,0 +1,43 @@
+'devtools' - Tools to Make Developing R Packages Easier 
+'ps' - List, query and manipulate all system processes, on 'Windows', 'Linux' and 'macOS'. 
+'DBI' - A database interface definition for communication between R and relational database management systems. 
+'aCRM' - Convenience functions for analytical Customer Relationship ... 
+'dataPreparation'  -  Do most of the painful data preparation for a data science project with a minimum amount of code, 
+'dplyr' - data manipulation, providing a consistent set of verbs that help you solve the most common data manipulation challenges,
+'e1071' - Misc Functions of the Department of Statistics, Probability Theory ..., 
+'mice'- The mice package in R, helps you imputing missing values with plausible data values.   ,
+'h2o',
+'plyr'- Tools for Splitting, Applying and Combining Data.  
+'data.table'- data.table is an R package that provides an enhanced version of data.frame s, which are the standard data structure for storing data in base R  ,
+'dummies'- Contains functions to create dummy variables flexibly using model.matrix returning them as eithermatrices or data frames for further analysis. Alsoi, contains methods, for manipulating dummyvariables.  'stringr'- ?????? ?? ???????? 
+'tidyverse'- collection of R packages designed for data science '
+ 'caret' - Classification And REgression Training 
+'taRifx'-  various utility and convenience functions 
+'fpc'- clustering methods implemented in R, including estimating the number of clusters with kmeans ... 
+'jsonlite'- 
+'partykit'- A toolkit with infrastructure for representing, summarizing, and visualizing tree-structured regression and classification models 
+'rattle'- A Graphical User Interface for Data Mining
+'rpart.plot'-
+'rpart'- Learn tree-based modelling
+'MLmetrics'- Machine Learning Evaluation Metrics
+'qdap'- word extracting and visualization statistical analysis
+'widyr'- Widen, Process, then Re-Tidy Data
+'ggraph'-
+'igraph'-
+'wordcloud'-
+'tidytext'-  text analysis within the tidy data framework
+'tm' - A framework for text mining applications  
+'nnet' - Software for feed-forward neural networks with a single hidden layer
+'DMwR' - DMwR: Functions and data for "Data Mining with R"
+'gtools' -
+'forecast' - Forecasting Functions for Time Series and Linear Models
+'highcharter' - A wrapper for the 'Highcharts' library including shortcut functions to plot R objects
+'xts' - Constructor function for creating an extensible time-series object 
+'zoo', - consists of the methods for totally ordered indexed observations 
+'lubridate' - work with dates and times 
+'plumber' - An R package that generates a web API from the R code you already have. 
+'matrixStats' - 
+'readr' - 
+'fmsb' - Functions for Medical Statistics Book wi 
+'textstem' - Tools for Stemming and Lemmatizing Text.
+

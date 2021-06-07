@@ -1,0 +1,6 @@
+Default parameters and user defined parameters are not provided.
+Encoding of the data is required before inputting the data to h2o model.
+In k-means, while transforming the data before PCA, transformation function is not working for more than 9 columns.
+K-means and decision tree is not returning all the required outputs.(Please check the list of outputs in R code)
+Flask app is not accepting multiple requests at a time. Please suggest any web service which can handle multiple request.
+The output format of variable importance is not same as the response in R
